@@ -13,7 +13,7 @@ const educationItems: EducationItem[] = [
     degree: "Análise e Desenvolvimento de Sistemas",
     institution: "Universidade Estácio de Sá",
     period: "Janeiro 2023 - Julho 2025",
-    description: "Graduação em andamento",
+    description: "Graduação Tecnológica",
   },
   {
     degree: "Desenvolvedor Front-end",
