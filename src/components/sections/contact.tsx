@@ -89,7 +89,7 @@ export function Contact() {
               <ContactItem
                 icon={<Mail className="text-emerald-500 h-6 w-6" />}
                 title="Email"
-                value="thiago201714@gmail.com"
+                value="contatothsm@gmail.com"
                 href="mailto:thiago201714@gmail.com"
               />
               <ContactItem
