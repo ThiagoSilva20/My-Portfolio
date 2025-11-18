@@ -10,38 +10,22 @@ type ExperienceItem = {
 
 const experiences: ExperienceItem[] = [
   {
+    title: "Desenvolvedor Junior",
+    company: "65A",
+    period: "Maio 2025 - Presente",
+    description: [
+      "Atuação em desenvolvimento de software, contribuindo para a criação e manutenção de soluções digitais.",
+    ],
+  },
+  {
     title: "Desenvolvedor Front End",
     company: "Next Devs Academy",
-    period: "Fevereiro 2025 - Presente",
+    period: "Fevereiro 2025 - Maio 2025",
     description: [
       "Desenvolvimento de sites e aplicações web utilizando Next.js, React.js e Node.js para criar soluções otimizadas, escaláveis e de alto desempenho.",
       "Construção de interfaces modernas e responsivas com Tailwind CSS.",
       "Integração e gerenciamento de bancos de dados PostgreSQL com Prisma ORM, garantindo segurança, eficiência e facilidade na manipulação de dados.",
       "Aplicação de boas práticas de desenvolvimento, otimização de performance e acessibilidade.",
-    ],
-  },
-  {
-    title: "Atendente DIC",
-    company: "Poupa Tempo RJ",
-    period: "Março 2023 - Novembro 2024",
-    description: [
-      "Recepção e verificação de documentos de cidadãos para solicitação da Carteira de Identidade Nacional (CIN).",
-      "Cadastro de dados biométricos e biográficos no sistema do Serviço de Identificação do Cidadão.",
-      "Conferência da veracidade e validade dos documentos apresentados.",
-      "Esclarecimento de dúvidas sobre a CIN, seus benefícios e funcionalidades.",
-      "Manutenção e conservação dos equipamentos utilizados no processo.",
-    ],
-  },
-  {
-    title: "Service Desk (Estagiário de TI)",
-    company: "Governo do Estado do Rio de Janeiro",
-    period: "Julho 2022 - Janeiro 2023",
-    description: [
-      "Atendimento de solicitações dos usuários por telefone ou e-mail, registrando os chamados no sistema.",
-      "Solução de problemas de forma presencial, utilizando ferramentas e técnicas adequadas.",
-      "Escalação de chamados para o nível superior da equipe de suporte quando necessário.",
-      "Acompanhamento do status e feedback dos chamados, mantendo os usuários informados.",
-      "Auxílio na instalação, configuração e manutenção de equipamentos e softwares.",
     ],
   },
 ]
